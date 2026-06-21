@@ -2,4 +2,4 @@
 ![Streak](https://streak-stats.demolab.com/?user=bof4&theme=radical)
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=bof4&theme=react-dark)
 ![Views](https://komarev.com/ghpvc/?username=bof4&color=blue)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
