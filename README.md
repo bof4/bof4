@@ -1,5 +1,4 @@
 ![My Stats](https://github-readme-stats.vercel.app/api?username=bof4&show_icons=true&theme=radical)
 ![Streak](https://streak-stats.demolab.com/?user=bof4&theme=radical)
-![Trophy](https://github-profile-trophy.vercel.app/?username=bof4&theme=radical)
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=bof4&theme=react-dark)
 ![Views](https://komarev.com/ghpvc/?username=bof4&color=blue)
